@@ -32,7 +32,7 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [Telegram繁體中文语言包](https://t.me/setlanguage/zh-hant-beta)                | Telegram繁體中文语言包                        | 工具   |
 | [Telegram簡體中文语言包](https://t.me/setlanguage/zh-hans-beta)                | Telegram簡體中文语言包                        | 工具   |
 
-更多信息请查看： [关于网站](https://seo.ncxx.net/)
+更多信息请查看： [关于网站](https://tg.ncxx.net/)
 
 ### 赞助我们
 
